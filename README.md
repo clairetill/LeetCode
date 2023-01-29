@@ -1,1 +1,1 @@
-LeetCode solutions in Python3.
+LeetCode solutions in JavaScript.
